@@ -1,0 +1,50 @@
+	Will be updated!!!
+
+Trainer 
+
+Igor Kheidorov,
+igorkheidorov@coherentsolutions.com
+tel: (+375) 29 621 00 31 
+telegram: Igor Kheidorov
+
+Link to free timeslots for discussion:
+https://docs.google.com/spreadsheets/d/1PFIGuE3hBp1V4_HR__9M5_xZ6BvH3LLyUuwTIXaJGYE/edit?usp=sharing
+
+Link to test on first 3 lectures to pratice:
+https://forms.office.com/Pages/ResponsePage.aspx?id=d1qRgcR0cEOm-X5eZjIiM-NPVpRTZntFlqoXHB0EnjJUMzJFM0dMV05YQUlCQ0NHVDNSSk5XMEUwMS4u
+
+
+Letures topics:
+
+Lecture 1
+	Platform .NET – total information
+	Basic information about C#
+	Simple C# application and its analysis
+	CLR and C# types system
+	Primitive value types casting
+	
+Lecture 2 
+	Lexical structure of C# applications
+	Identifies and key words
+	Literals
+	Expressions and operations
+	Operation contexts
+	Associativity and operations priority
+
+Lecture 3
+	Expression operators
+	Declaration Operators
+	Unconditional Jump Operators
+	Selection Operators
+	Loop Operators
+
+
+Lecture 4 (on 10/27/2023)
+	Basic knowledge of arrays
+	Class and its elements
+	Visibility modifiers
+	Declaring class fields
+	Description of methods
+	Instance Constructors
+	Object creation
+	Calling Methods
